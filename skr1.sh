@@ -4,3 +4,5 @@ uptime
 who
 
 ps
+
+top
