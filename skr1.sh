@@ -5,4 +5,7 @@ who
 
 ps
 
-top
+
+
+cat /etc/passwd
+
