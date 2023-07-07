@@ -7,3 +7,5 @@ ps
 cat /etc/passwd
 
 ln
+
+whoami
