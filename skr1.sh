@@ -6,3 +6,4 @@ ps
 
 cat /etc/passwd
 
+ln
