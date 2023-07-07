@@ -1,2 +1,4 @@
 ls -lah 
 uptime
+
+who
