@@ -9,3 +9,6 @@ cat /etc/passwd
 ln
 
 whoami
+
+ps 
+
